@@ -5,7 +5,7 @@
 }
 
 .cabeçalho {
-    background-color: #d5b364;
+    background-color: #fcd781;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -37,7 +37,7 @@
 }
 
 .nossa-escola {
-    background-image: linear-gradient(#f0a345, #ab6f08);
+    background-image: linear-gradient(#fcd781, #ffba59);
     color: white;
     display: flex;
     justify-content: center;
@@ -70,7 +70,7 @@
 }
 
 .equipe {
-    background-color: #c17536db;
+    background-color: #c78651db;
     color: white;
 }
 
@@ -97,8 +97,8 @@
 }
 
 .rodapé{
-    background-color: #ab6f08;
-    color: #f0a345;
+    background-color: #ffba59;
+    color: #fcd781;
     font-size: 20px;
     display: flex;
     justify-content: space-around;
